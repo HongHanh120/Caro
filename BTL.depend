@@ -1,0 +1,320 @@
+# depslib dependency file v1.0
+1525093960 source:c:\users\dell\desktop\btl\board.cpp
+	"Board.h"
+
+1525281784 c:\users\dell\desktop\btl\board.h
+	"console.h"
+	<iostream>
+
+1524923555 c:\users\dell\desktop\btl\console.h
+	<windows.h>
+
+1524974201 source:c:\users\dell\desktop\btl\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1525173995 source:c:\users\dell\desktop\btl\checkwin.cpp
+	"checkWin.h"
+
+1525156256 c:\users\dell\desktop\btl\checkwin.h
+	<console.h>
+
+1525170805 source:c:\users\dell\desktop\btl\instructions.cpp
+	"Instructions.h"
+
+1525170835 c:\users\dell\desktop\btl\instructions.h
+	"console.h"
+	"Board.h"
+	"Windows.h"
+	"logicGame.h"
+
+1525267971 c:\users\dell\desktop\btl\windows.h
+	"Board.h"
+	"console.h"
+	<conio.h>
+
+1525281696 c:\users\dell\desktop\btl\logicgame.h
+	"console.h"
+	"Board.h"
+	"Display.h"
+	"Windows.h"
+	"Player.h"
+	"checkWin.h"
+
+1525284770 c:\users\dell\desktop\btl\player.h
+	"console.h"
+	<conio.h>
+	"logicGame.h"
+
+1525286480 source:c:\users\dell\desktop\btl\logicgame.cpp
+	"logicGame.h"
+
+1525281712 source:c:\users\dell\desktop\btl\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"console.h"
+	"Board.h"
+	"Windows.h"
+	"checkWin.h"
+	"Player.h"
+	"Display.h"
+	"logicGame.h"
+
+1525267971 source:c:\users\dell\desktop\btl\windows.cpp
+	"Windows.h"
+
+1525274721 source:c:\users\dell\desktop\btl\player.cpp
+	"Player.h"
+
+1525284770 c:\users\dell\desktop\btl\display.h
+	<iostream>
+	"console.h"
+	"Board.h"
+	"Windows.h"
+	"logicGame.h"
+	"Player.h"
+
+1525286378 source:c:\users\dell\desktop\btl\display.cpp
+	"Display.h"
+
+1525593655 source:c:\users\dell\desktop\btl fix\board.cpp
+	"Board.h"
+
+1525595233 c:\users\dell\desktop\btl fix\board.h
+	"Console.h"
+	"Rules.h"
+	"Graphics.h"
+	<iostream>
+
+1525429888 c:\users\dell\desktop\btl fix\console.h
+	<windows.h>
+
+1525585407 source:c:\users\dell\desktop\btl fix\checkwin.cpp
+	"CheckWin.h"
+
+1525595233 c:\users\dell\desktop\btl fix\checkwin.h
+	<Console.h>
+	<graphics.h>
+	"Board.h"
+
+1524974201 source:c:\users\dell\desktop\btl fix\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1525543961 source:c:\users\dell\desktop\btl fix\display.cpp
+	"Display.h"
+
+1525543018 c:\users\dell\desktop\btl fix\display.h
+	<iostream>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"Rules.h"
+	"Player.h"
+
+1525429540 c:\users\dell\desktop\btl fix\windows.h
+	"Board.h"
+	"Console.h"
+	<conio.h>
+
+1525281696 c:\users\dell\desktop\btl fix\logicgame.h
+	"console.h"
+	"Board.h"
+	"Display.h"
+	"Windows.h"
+	"Player.h"
+	"checkWin.h"
+
+1525543105 c:\users\dell\desktop\btl fix\player.h
+	"Console.h"
+	<conio.h>
+	"Rules.h"
+
+1525426518 source:c:\users\dell\desktop\btl fix\logicgame.cpp
+
+1525543245 source:c:\users\dell\desktop\btl fix\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"CheckWin.h"
+	"Player.h"
+	"Display.h"
+	"Rules.h"
+
+1525543253 source:c:\users\dell\desktop\btl fix\player.cpp
+	"Player.h"
+
+1525544419 source:c:\users\dell\desktop\btl fix\windows.cpp
+	"Windows.h"
+
+1525543231 c:\users\dell\desktop\btl fix\rules.h
+	"Console.h"
+	"Board.h"
+	"Display.h"
+	"Windows.h"
+	"Player.h"
+	"CheckWin.h"
+	"Rules.h"
+
+1525543969 source:c:\users\dell\desktop\btl fix\rules.cpp
+	"Rules.h"
+
+1398751284 c:\users\dell\desktop\btl fix\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1525974017 source:c:\users\dell\desktop\btl fix1\checkwin.cpp
+	"CheckWin.h"
+
+1525970919 c:\users\dell\desktop\btl fix1\checkwin.h
+	<Console.h>
+	"Board.h"
+
+1525605003 c:\users\dell\desktop\btl fix1\board.h
+	"Console.h"
+	"Rules.h"
+	<iostream>
+
+1525429888 c:\users\dell\desktop\btl fix1\console.h
+	<windows.h>
+
+1525605003 c:\users\dell\desktop\btl fix1\rules.h
+	"Console.h"
+	"Board.h"
+	"Display.h"
+	"Windows.h"
+	"Player.h"
+	"CheckWin.h"
+	"Rules.h"
+
+1525606017 c:\users\dell\desktop\btl fix1\display.h
+	<iostream>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"Rules.h"
+	"Player.h"
+
+1525605003 c:\users\dell\desktop\btl fix1\windows.h
+	"Board.h"
+	"Console.h"
+	<conio.h>
+
+1525968065 c:\users\dell\desktop\btl fix1\player.h
+	<conio.h>
+	"Console.h"
+	"Rules.h"
+
+1524974201 source:c:\users\dell\desktop\btl fix1\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1525610083 source:c:\users\dell\desktop\btl fix1\display.cpp
+	"Display.h"
+
+1525848511 source:c:\users\dell\desktop\btl fix1\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"CheckWin.h"
+	"Player.h"
+	"Display.h"
+	"Rules.h"
+
+1525977958 source:c:\users\dell\desktop\btl fix1\player.cpp
+	"Player.h"
+
+1525977958 source:c:\users\dell\desktop\btl fix1\rules.cpp
+	"Rules.h"
+
+1525760919 source:c:\users\dell\desktop\btl fix1\windows.cpp
+	"Windows.h"
+
+1525978248 source:c:\users\dell\desktop\btl fix1\board.cpp
+	"Board.h"
+
+1526029635 source:c:\users\dell\desktop\btl fix2\board.cpp
+	"Board.h"
+
+1526029544 c:\users\dell\desktop\btl fix2\board.h
+	"Console.h"
+	"Rules.h"
+	<iostream>
+
+1525429888 c:\users\dell\desktop\btl fix2\console.h
+	<windows.h>
+
+1526030855 c:\users\dell\desktop\btl fix2\rules.h
+	"Console.h"
+	"Board.h"
+	"Display.h"
+	"Windows.h"
+	"Player.h"
+	"CheckWin.h"
+	"Rules.h"
+
+1526029544 c:\users\dell\desktop\btl fix2\display.h
+	<iostream>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"Rules.h"
+	"Player.h"
+
+1526029544 c:\users\dell\desktop\btl fix2\windows.h
+	"Board.h"
+	"Console.h"
+	<conio.h>
+
+1526030976 c:\users\dell\desktop\btl fix2\player.h
+	<conio.h>
+	"Console.h"
+	"Rules.h"
+
+1526788237 c:\users\dell\desktop\btl fix2\checkwin.h
+	<Console.h>
+	"Board.h"
+
+1526032972 source:c:\users\dell\desktop\btl fix2\checkwin.cpp
+	"CheckWin.h"
+
+1524974201 source:c:\users\dell\desktop\btl fix2\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1526016856 source:c:\users\dell\desktop\btl fix2\display.cpp
+	"Display.h"
+
+1525848511 source:c:\users\dell\desktop\btl fix2\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	"Console.h"
+	"Board.h"
+	"Windows.h"
+	"CheckWin.h"
+	"Player.h"
+	"Display.h"
+	"Rules.h"
+
+1526030976 source:c:\users\dell\desktop\btl fix2\player.cpp
+	"Player.h"
+
+1526029785 source:c:\users\dell\desktop\btl fix2\rules.cpp
+	"Rules.h"
+
+1526010634 source:c:\users\dell\desktop\btl fix2\windows.cpp
+	"Windows.h"
+
